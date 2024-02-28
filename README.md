@@ -14,7 +14,7 @@ By leveraging advanced analytical techniques, this project aims to enhance opera
 
 Please note that the classification models and delay prediction models currently under development may not exhibit optimal accuracy levels.I am actively engaged in refining these models to enhance their performance and reliability. All of it is for learning and understanding ML and Neural Network only.Thank you for your continued support.
 
-#Application Insights: Unlocking Aviation Efficiency
+# Application Insights: Unlocking Aviation Efficiency
 
 Our project yields invaluable insights with far-reaching applications across the aviation industry. By meticulously analyzing flight delay data attributed to specific airports, we offer actionable intelligence to enhance operational efficiency and service quality.
 
@@ -32,4 +32,4 @@ Predictive Insights: While our current prediction model offers modest accuracy, 
 
 Our project embodies a commitment to revolutionizing the aviation landscape, offering stakeholders actionable insights to drive efficiency, reliability, and customer satisfaction.
 
-#Dataset : Available on IBM link : https://developer.ibm.com/exchanges/data/all/airline/
+# Dataset : Available on IBM link : https://developer.ibm.com/exchanges/data/all/airline/
