@@ -18,8 +18,7 @@ Please note that the classification models and delay prediction models currently
 
 Our project yields invaluable insights with far-reaching applications across the aviation industry. By meticulously analyzing flight delay data attributed to specific airports, we offer actionable intelligence to enhance operational efficiency and service quality.
 
-# PowerBI Dashboard
-"C:\Users\niraj\OneDrive\Desktop\Airline Delay Project\1.png"
+
 Airport Performance Enhancement: Our findings empower underperforming airports to optimize their services, thus fostering improved business prospects. Enhanced airport performance not only attracts airlines but also resonates with discerning passengers seeking reliability and convenience in their travel experience.
 
 Carrier Accountability: By scrutinizing airline carrier performance concerning delays, our analysis serves as a catalyst for airlines to bolster their service standards or risk substantial business repercussions. Passengers, armed with this knowledge, can make informed decisions, favoring carriers renowned for punctuality and reliability.
@@ -33,5 +32,7 @@ Cancellation Reason Identification: Our classification model accurately identifi
 Predictive Insights: While our current prediction model offers modest accuracy, our ongoing research explores the potential of advanced neural networks to deliver highly efficient and reliable delay predictions. Future iterations could seamlessly integrate with airport and airline platforms, empowering travelers to plan their journeys with confidence amidst unpredictable flight schedules.
 
 Our project embodies a commitment to revolutionizing the aviation landscape, offering stakeholders actionable insights to drive efficiency, reliability, and customer satisfaction.
+# PowerBI Dashboard
+"C:\Users\niraj\OneDrive\Desktop\Airline Delay Project\1.png"
 
 # Dataset : Available on IBM link : https://developer.ibm.com/exchanges/data/all/airline/
