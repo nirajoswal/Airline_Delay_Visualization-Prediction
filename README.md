@@ -32,7 +32,5 @@ Cancellation Reason Identification: Our classification model accurately identifi
 Predictive Insights: While our current prediction model offers modest accuracy, our ongoing research explores the potential of advanced neural networks to deliver highly efficient and reliable delay predictions. Future iterations could seamlessly integrate with airport and airline platforms, empowering travelers to plan their journeys with confidence amidst unpredictable flight schedules.
 
 Our project embodies a commitment to revolutionizing the aviation landscape, offering stakeholders actionable insights to drive efficiency, reliability, and customer satisfaction.
-# PowerBI Dashboard
-"C:\Users\niraj\OneDrive\Desktop\Airline Delay Project\1.png"
 
 # Dataset : Available on IBM link : https://developer.ibm.com/exchanges/data/all/airline/
